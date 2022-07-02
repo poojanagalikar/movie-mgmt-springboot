@@ -1,0 +1,11 @@
+com\example\springbootmovie\service\ActorService.class
+com\example\springbootmovie\model\Actor.class
+com\example\springbootmovie\config\MvcConfig.class
+com\example\springbootmovie\repository\MovieRepository.class
+com\example\springbootmovie\SpringbootMovieApplication.class
+com\example\springbootmovie\controller\ActorController.class
+com\example\springbootmovie\model\Movie.class
+com\example\springbootmovie\security\SecurityConfiguration.class
+com\example\springbootmovie\service\MovieService.class
+com\example\springbootmovie\repository\ActorRepository.class
+com\example\springbootmovie\controller\MovieController.class
